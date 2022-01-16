@@ -1,6 +1,6 @@
 What is Lasagne : https://en.wikipedia.org/wiki/Lasagne
 
-![Pic Lasagne](https://en.wikipedia.org/wiki/File:Lasagne_-_stonesoup.jpg)
+![Pic Lasagne](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lasagne_-_stonesoup.jpg/878px-Lasagne_-_stonesoup.jpg)
 
 
 ```c#
