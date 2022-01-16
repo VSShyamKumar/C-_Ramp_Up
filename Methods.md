@@ -32,7 +32,7 @@ class Lasagna
 }
 ```
 
-Solution 2 kind of pro level (using Lambda Expressions)
+Solution 2 kind of pro level (using Lambda Expressions) which is way more convinient than using anonymous method
 ```c#
 class Lasagna
 {
