@@ -1,3 +1,7 @@
+What is Lasagne : https://en.wikipedia.org/wiki/Lasagne
+
+![Pic Lasagne](https://en.wikipedia.org/wiki/File:Lasagne_-_stonesoup.jpg)
+
 
 ```c#
 class Lasagna
